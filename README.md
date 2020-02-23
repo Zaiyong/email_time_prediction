@@ -28,11 +28,14 @@ pip install -r requirements.txt
 
 ## Deployment
 
-## Built With
-
+## Download and run Docker Image
+```
+docker push zhangqibiao177/time_predict:tagname
+docker run -d -p 5000:5000 zhangqibiao177/time_predict:latest
+```
 ## Authors
 
-* **Zaiyong Zhnang** - *Main Contribute* - [zaiyongzhang.com](http://zaiyongzhang.com/)
+* **Zaiyong Zhnang** - *Main Contributor* - [zaiyongzhang.com](http://zaiyongzhang.com/)
 
 ## License
 
