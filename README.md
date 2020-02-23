@@ -26,7 +26,26 @@ Now install required packages with pip:
 pip install -r requirements.txt
 ```
 ## Folder Structure
-
+    .
+    ├── requirements.txt                # Python libraries
+    ├── README.md                       # readme
+    ├── 1.EDA.ipynb                     # the notebook to analyse and preprocess data
+    ├── 2.train_test_ml_model.ipynb     # the notebook to train/test machine learning model
+    ├── 3.train_test_dl_model.ipynb     # the note book to train/test deep learning model
+    ├── client.py                       # a client demo to access RES API of DL model
+    ├── model                           # trained models
+    │   ├── svm_model.pkl               # SVM regression model
+    │   ├── min_max_scaler.joblib       # for min-max normalization
+    │   └── dl_model                    # deep learning model
+    ├── data                            # raw and processed data
+    │   ├── data.csv                    # raw data
+    │   ├── clean.csv                   # preprocessed data
+    ├── docker_repo                     # docker container
+    │   ├── time_predict.py             # the flask file
+    │   ├── requirements.txt            # python libraries
+    │   ├── Dockerfile                  # docker 
+    │   ├── dl_model                    # deep learning model 
+    └── ...
 ## Deployment as REST API
 
 ### Download and run Docker Image
