@@ -38,6 +38,6 @@ To create a model, which predicts the sending time TS so that opening time TO wi
 
 ## How to improve the model
 1. this is a typical underfitting problem due to limited feature size. The best way to improve the model is adding more features.
-2. implement a particular loss function baseon the TO-TS, since is the final target.
+2. implement a particular loss function base on the TO-TS, since it is the final target.
 2. do a deep engineering to extract more infomration from existing data.
 3. design a better deep learning model.
