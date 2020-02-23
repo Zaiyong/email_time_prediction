@@ -1,5 +1,5 @@
 ## The idea of modeling
-To create a model, which predicts the sending time TS so that opening time TO will be as early as possible, the direct way is focusing on the data with low TS TO difference. Now we can abstract the problem into a standard machine learning problem with filtered dataset.
+To create a model, which predicts the sending time TS so that opening time TO will be as early as possible, the direct way is focusing on the data with low TS TO difference. Now we can abstract the problem into a standard machine learning problem with filtered dataset.  
 * Feature: X1, X2, X3  
 * Target: TS  
 * Dataset: df.TS_TO_diff_minutes<TS_TO_diff_threshold  
