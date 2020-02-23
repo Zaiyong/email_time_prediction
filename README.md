@@ -31,6 +31,7 @@ pip install -r requirements.txt
     .
     ├── requirements.txt                # Python libraries
     ├── README.md                       # readme
+    ├── report.md                       # working record and discussion
     ├── 1.EDA.ipynb                     # the notebook to analyse and preprocess data
     ├── 2.train_test_ml_model.ipynb     # the notebook to train/test machine learning model
     ├── 3.train_test_dl_model.ipynb     # the note book to train/test deep learning model
