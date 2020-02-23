@@ -25,7 +25,7 @@
 2. Use cross-validation to evaluate the model.
 3. Save he model locally.
 
-### 🚀Bonus:
+### 🚀★Bonus★:
 1. Build a Docker image that serve the DL model as REST API with flask.
 2. Publish the docker image on docker hub.
 
