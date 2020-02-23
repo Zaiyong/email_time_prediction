@@ -26,13 +26,18 @@ pip install -r requirements.txt
 ```
 ### Folder Structure
 
-## Deployment
+## Deployment as REST API
 
-## Download and run Docker Image
+### Download and run Docker Image
 ```
 docker pull zhangqibiao177/time_predict
 docker run -d -p 5000:5000 zhangqibiao177/time_predict:latest
 ```
+### Aceess the EndPoint via demo
+```
+python client.py
+```
+
 ## Authors
 
 * **Zaiyong Zhnang** - *Main Contributor* - [zaiyongzhang.com](http://zaiyongzhang.com/)
