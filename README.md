@@ -10,8 +10,10 @@ Make sure you have installed all of the following prerequisites on your developm
 * pip - [Download & Install pip](https://pip.pypa.io/en/stable/installing/)
 * Git - [Download & Install Git](https://git-scm.com/downloads)
 * virtualenv - user pip to install
-    pip3 install virtualenv 
-    
+```
+pip3 install virtualenv 
+```
+
 ## Installing packages
 Please create an virtual environment before installing required packages:
 ```
