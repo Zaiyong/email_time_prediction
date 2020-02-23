@@ -2,6 +2,7 @@
 
 In this project, we analyse the relationships between some features and email sending time, build and deploy an machine learningg model to predict the email sending time.
 
+![demo](https://raw.githubusercontent.com/Zaiyong/email_time_prediction/master/images/TS_TO_diff.png)
 
 ## Prerequisites
 Make sure you have installed all of the following prerequisites on your development machine
