@@ -49,7 +49,7 @@ pip install -r requirements.txt
     │   ├── Dockerfile                  # docker 
     │   ├── dl_model                    # deep learning model 
     └── ...
-## Deployment as REST API
+## 🚀Deploy DL model as REST API with docker and flask
 
 ### Download and run Docker Image
 ```
