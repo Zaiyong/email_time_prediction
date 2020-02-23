@@ -16,18 +16,20 @@
 3. GradientBoost
 4. SVM
 
-**Use cross-validation to evaluate the models**
-**Use grid search to tuning the models**
-**Save the models as files**
+**Use cross-validation to evaluate the models** 
+**Use grid search to tuning the models** 
+**Save the models as files** 
 
 ### Train/Test with deep learning neural network 
 1. define a simple deep neural network
 2. Use cross-validation to evaluate the model
 3. Save he model locally
 
+::: warning
 ### Bonus:
 1. Build a Docker image that serve the DL model as REST API with flask2
 2. Publish the docker image on docker hub
+:::
 
 
 ## How to improve the model
