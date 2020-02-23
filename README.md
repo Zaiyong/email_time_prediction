@@ -3,7 +3,7 @@
 In this project, we analyse the relationships between some features and email sending time, build and deploy an machine learningg model to predict the email sending time.
 
 
-### Prerequisites
+## Prerequisites
 Make sure you have installed all of the following prerequisites on your development machine
 * Python 3.7.6 - [Download & Install Python](https://www.python.org/downloads/)
 * pip - [Download & Install pip](https://pip.pypa.io/en/stable/installing/)
@@ -11,7 +11,7 @@ Make sure you have installed all of the following prerequisites on your developm
 * virtualenv - user pip to install
     pip3 install virtualenv 
     
-### Installing packages
+## Installing packages
 Please create an virtual environment before installing required packages:
 ```
 virtualenv venv
@@ -24,7 +24,7 @@ Now install required packages with pip:
 ```
 pip install -r requirements.txt
 ```
-### Folder Structure
+## Folder Structure
 
 ## Deployment as REST API
 
