@@ -9,7 +9,7 @@ Make sure you have installed all of the following prerequisites on your developm
 * Python 3.7.6 - [Download & Install Python](https://www.python.org/downloads/)
 * pip - [Download & Install pip](https://pip.pypa.io/en/stable/installing/)
 * Git - [Download & Install Git](https://git-scm.com/downloads)
-* virtualenv - user pip to install
+* virtualenv - use pip to install
 ```
 pip3 install virtualenv 
 ```
