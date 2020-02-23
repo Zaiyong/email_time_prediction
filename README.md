@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ## Download and run Docker Image
 ```
-docker push zhangqibiao177/time_predict:tagname
+docker pull zhangqibiao177/time_predict
 docker run -d -p 5000:5000 zhangqibiao177/time_predict:latest
 ```
 ## Authors
